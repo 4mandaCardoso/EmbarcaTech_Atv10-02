@@ -105,14 +105,19 @@ Além dessas funcionalidades, a aplicação foi desenvolvida com atenção à qu
 
 ### Link do vídeo:
 🔗 
+
+
 ───────────────────────────────────────────────
 
 ## CONCLUSÃO
 
 ───────────────────────────────────────────────
-Este projeto foi uma experiência muito enriquecedora, permitindo-me explorar e integrar diversos conceitos importantes na programação de microcontroladores. Ao trabalhar com a leitura analógica do joystick, o controle dinâmico de LEDs por meio de PWM e a exibição gráfica no display SSD1306, pude compreender melhor a comunicação entre hardware e software.
 
-A implementação das rotinas de interrupção com debouncing também foi um grande desafio, mas fundamental para garantir a confiabilidade e a responsividade do sistema. Estou muito satisfeito com os resultados alcançados, pois o trabalho não só reforçou meus conhecimentos técnicos, como também aprimorou minha capacidade de organizar e documentar o código de forma clara e eficiente.
+
+
+Este projeto foi uma experiência muito enriquecedora, permitindo-me explorar e integrar diversos conceitos importantes na programação de microcontroladores. Ao trabalhar com a leitura analógica do joystick, o controle dinâmico de LEDs por meio de PWM e a exibição gráfica no display SSD1306, pude compreender melhor a comunicação entre hardware e software. A implementação das rotinas de interrupção com debouncing também foi um grande desafio, mas fundamental para garantir a confiabilidade e a responsividade do sistema. Estou muito satisfeito com os resultados alcançados, pois o trabalho não só reforçou meus conhecimentos técnicos, como também aprimorou minha capacidade de organizar e documentar o código de forma clara e eficiente.
+
+
 
 ───────────────────────────────────────────────
 
